@@ -5,12 +5,12 @@ inventaire:
   - lion
 personnages:
   - moi:
-    - santé: 3
+    - santé: 7
   - chevalier_noir:
-    - santé: 9
+    - santé: 0
   - lion:
-    - santé: 12
+    - santé: 11
   - serpent:
     - santé: 0
   - géant:
-    - santé: 25
+    - santé: 0
